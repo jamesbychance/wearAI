@@ -6,11 +6,11 @@ A curated review exploring the emerging intersection of spatial AI, wearable tec
 
 This literature review explores the cutting-edge intersection of wearable technology, spatial AI, and human activity recognition (HAR).
 
-Spatial AI refers to artificial intelligence systems that understand, interpret, and interact with the three-dimensional world. It combines techniques from computer vision, sensor fusion, and machine learning to process and analyze data with spatial and temporal components. In the context of wearable technology and HAR, spatial AI offers several potential advantages over existing approaches:
+Spatial AI refers to artificial intelligence systems that understand, interpret, and interact with the three-dimensional world. It combines techniques from computer vision, sensor fusion, and machine learning to process and analyse data with spatial and temporal components. In the context of wearable technology and HAR, spatial AI offers several potential advantages over existing approaches:
 
 1. **Enhanced 3D Understanding**: Spatial AI can better interpret the three-dimensional nature of human movements and activities, allowing for more accurate recognition and analysis. By modeling the human body and its movements in three dimensions, spatial AI systems can capture nuances that two-dimensional models may miss (Smith & Doe, 2020).
 
-2. **Improved Context Awareness**: By understanding spatial relationships and the environment, these systems can provide more accurate activity recognition in complex and dynamic settings. This includes recognizing activities in crowded spaces or when interactions with objects are involved (Johnson et al., 2021).
+2. **Improved Context Awareness**: By understanding spatial relationships and the environment, these systems can provide more accurate activity recognition in complex and dynamic settings. This includes recognising activities in crowded spaces or when interactions with objects are involved (Johnson et al., 2021).
 
 3. **Efficient Data Processing**: Spatial AI techniques like graph neural networks (GNNs) can efficiently process data with inherent spatial structures, such as sensor networks or body joints. GNNs excel at capturing the relationships between different nodes (e.g., sensors), leading to better feature extraction and reduced computational complexity (Wang & Zhang, 2019).
 
@@ -20,7 +20,7 @@ Spatial AI refers to artificial intelligence systems that understand, interpret,
 
 - **Temporal Dependency Issues**: Traditional models like RNNs and LSTMs may struggle with long-term dependencies in sequential data, leading to performance degradation.
 - **Limited Spatial Context**: Conventional models often fail to capture the spatial interdependencies between different body parts or sensors, resulting in less accurate activity recognition.
-- **Overfitting and Generalization**: Models trained on specific datasets may not generalize well to new activities or environments due to a lack of spatial awareness.
+- **Overfitting and Generalisation**: Models trained on specific datasets may not generalise well to new activities or environments due to a lack of spatial awareness.
 - **Multimodal Data Fusion Challenges**: Integrating data from multiple sensors can be complex, and conventional models may not effectively fuse this data.
 
 ### Key Research Directions:
@@ -113,11 +113,11 @@ Spatial AI refers to artificial intelligence systems that understand, interpret,
 1. **Direct Application of Spatial AI to Wearable Sensor Data for HAR**
    - Developing models that incorporate spatial AI concepts into wearable data processing for improved activity recognition.
 
-2. **Specialized GNN Architectures for Wearable Sensor Data**
+2. **Specialised GNN Architectures for Wearable Sensor Data**
    - Designing GNNs tailored to the topology and characteristics of wearable sensor networks, capturing the spatial configuration of sensors on the body.
 
 3. **Integration of Attention Mechanisms in Spatial-Temporal Models**
-   - Utilizing attention mechanisms to focus on important spatial and temporal features, enhancing model performance (Yao et al., 2020).
+   - Utilising attention mechanisms to focus on important spatial and temporal features, enhancing model performance (Yao et al., 2020).
 
 4. **Transfer Learning Between Skeleton-Based Methods and Wearable Sensor Data**
    - Leveraging knowledge from skeleton-based action recognition to improve wearable sensor-based HAR through transfer learning techniques.
@@ -126,7 +126,7 @@ Spatial AI refers to artificial intelligence systems that understand, interpret,
    - Implementing spatial-temporal models on wearable devices for on-device HAR, reducing latency, preserving data privacy, and enabling real-time feedback.
 
 6. **Generative Models for Data Augmentation**
-   - Using GANs and VAEs to generate synthetic sensor data, addressing data scarcity, improving model robustness, and enhancing the diversity of training datasets (Zhao et al., 2020).
+   - Using GANs and VAEs to generate synthetic sensor data, addressing data scarcity, improving model robustness, and enhancing the diversity of training datasets (shao et al., 2020).
 
 7. **Privacy-Preserving AI**
    - Employing techniques like federated learning to train HAR models without compromising user data privacy, crucial for wearable technology.
