@@ -172,8 +172,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 Dr. James Eggleston - [@jamesbychance]
 
-Email: james.egg@example.com
-
-Project Link: [https://github.com/jamesbychance/wearableAI]
+Project Link: [https://github.com/jamesbychance/wearAI]
 
 *Note: This literature review aims to provide a comprehensive overview of the intersection between spatial AI and wearable technology for human activity recognition. It is regularly updated to reflect the latest developments in this rapidly evolving field.*
