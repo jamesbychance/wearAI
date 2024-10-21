@@ -158,7 +158,7 @@ If you use this literature review in your research or find it helpful, please ci
 
 ### APA Format
 
-Eggleston, J. (2023). Integrating Spatial AI with Wearables for Human Activity Recognition: A Chronological Review. GitHub. https://github.com/jamesbychance/wearableAI
+Eggleston, J. (2023). Integrating Spatial AI with Wearables for Human Activity Recognition: A Chronological Review. GitHub. https://github.com/jamesbychance/wearAI
 
 ## Contributing
 
